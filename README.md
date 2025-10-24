@@ -31,7 +31,13 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
+![dd5557f3-e65e-44bb-a1e5-1faca616d7eb](https://github.com/user-attachments/assets/ed7b3913-4fe4-4219-8e88-f14cf7a3d2d8)
+
+
 V-I & REGULATION CHARACTERISTICS:
+
+![1dbfc6cc-b575-4b91-9385-6285ebedf271](https://github.com/user-attachments/assets/38073e25-2106-4a4c-9327-cd7bed462078)
+
 
 PRECAUTIONS:
 
